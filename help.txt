@@ -1,0 +1,21 @@
+"cg" can find china gov.
+"help" can read help.
+"q" can quit vim.
+"ql" can exit help.
+"creat" is creat a new file.
+"github" can go to github
+"write"can write a file.
+"time"can see time.
+In write or creat press "i" can insert in here
+1    a
+2    b
+3    r
+you press "i"
+text:k
+number:2
+the text is
+1    a
+2    k
+3    b
+4    r
+
